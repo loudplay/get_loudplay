@@ -1,5 +1,12 @@
 ﻿Release Notes.
 
+Самый свежий релиз качать отсюда: https://github.com/loudplay/get_loudplay/releases/latest
+
+loudplay ver. 0.0.36
+--------------------
+
+- добавлен прогресс-бар в трее при загрузке обновления 
+
 loudplay ver. 0.0.35
 --------------------
 
