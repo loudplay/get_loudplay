@@ -2,6 +2,12 @@
 
 Самый свежий релиз качать отсюда: https://github.com/loudplay/get_loudplay/releases/latest
 
+loudplay ver. 0.0.39-fake
+--------------------
+
+- добавлена форма регистрации
+- переработан UI для форм типа логин/регистрация и пр.
+
 loudplay ver. 0.0.38-fake
 --------------------
 
