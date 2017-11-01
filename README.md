@@ -1,6 +1,7 @@
 ﻿Release Notes.
 
-Самый свежий релиз качать отсюда: https://github.com/loudplay/get_loudplay/releases/latest
+Самый свежий релиз качать отсюда:
+https://github.com/loudplay/get_loudplay/releases/latest
 
 loudplay ver. 0.0.82
 --------------------
